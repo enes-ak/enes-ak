@@ -17,7 +17,7 @@ I build computational pipelines and data-driven tools for biological research �
 ## Featured projects
 
 - **[covsnap](https://github.com/enes-ak/covsnap)** — Coverage inspector for targeted sequencing QC (hg38)
-- **[Bulk-RNA-Seq-pipeline](https://github.com/enes-ak/Bulk-RNA-Seq-pipeline)** — Time-course bulk RNA-Seq analysis pipeline
+- **[fitanalytics](https://github.com/enes-ak/fitanalytics)** — Web-based fitness tracking app for monitoring workouts and visualizing progress
 
 ## Get in touch
 
