@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Enes
 
-<!--
-**enes-ak/enes-ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Bioinformatician based in Istanbul, working at the intersection of **data science** and **genomics**.
 
-Here are some ideas to get you started:
+I build computational pipelines and data-driven tools for biological research — from NGS data processing to interactive analytics dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+**Languages:** Python, R, Bash
+**Bioinformatics:** Nextflow, Snakemake, Bioconductor, samtools, bedtools
+**Data & Web:** pandas, NumPy, scikit-learn, Streamlit, Flask
+**Environment:** Linux, HPC, Docker, Git
+
+## Featured projects
+
+- **[covsnap](https://github.com/enes-ak/covsnap)** — Coverage inspector for targeted sequencing QC (hg38)
+- **[Bulk-RNA-Seq-pipeline](https://github.com/enes-ak/Bulk-RNA-Seq-pipeline)** — Time-course bulk RNA-Seq analysis pipeline
+
+## Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-ak-1a0a75a7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akenes96@gmail.com)
