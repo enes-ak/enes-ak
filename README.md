@@ -7,8 +7,11 @@ I build computational pipelines and data-driven tools for biological research â€
 ## What I work with
 
 **Languages:** Python, R, Bash
-**Bioinformatics:** Nextflow, Snakemake, Conda, Bioconda, Docker, Singularity
+
+**Bioinformatics:** Nextflow, Snakemake, Conda, Bioconda, Docker, BioContainers, Singularity
+
 **Data & Web:** pandas, NumPy, Streamlit, Flask
+
 **Environment:** Linux, HPC, Docker, Git
 
 ## Featured projects
